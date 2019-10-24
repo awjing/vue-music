@@ -15,8 +15,7 @@ import Tab from 'components/tab/tab'
 export default {
   name: 'App',
   components: {
-    MHeader,
-    Tab
+    MHeader, Tab
   }
 }
 </script>
